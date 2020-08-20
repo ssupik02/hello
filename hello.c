@@ -12,6 +12,7 @@
 int main(int argc, char **argv) {
 
   printf("Spencer Supik!\n");
-
+  printf("Computer Engineering!\n");
+  
   return 0;
 }
